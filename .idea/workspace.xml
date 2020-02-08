@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9b44f81-745b-4c88-a24a-146ecbb9c5da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/classList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/innerHtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/examples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jeu.html" beforeDir="false" afterPath="$PROJECT_DIR$/jeu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jeu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jeu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objets.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/objets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portée.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/portée.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableaux.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/tableaux.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Node\LFSI2Centrale\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WnVs0YE0M7Jhq4uhbYoEOuuMqD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Node\LFSI2Centrale\assets\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.tableaux.js">
+    <configuration name="examples.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assets/js/examples.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="portée.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assets/js/portée.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="tableaux.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assets/js/tableaux.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.tableaux.js" />
+        <item itemvalue="Node.js.portée.js" />
+        <item itemvalue="Node.js.examples.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9b44f81-745b-4c88-a24a-146ecbb9c5da" name="Default Changelist" comment="" />
+      <created>1579785548438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579785548438</updated>
+      <workItem from="1579785549797" duration="738000" />
+      <workItem from="1579787447805" duration="616000" />
+      <workItem from="1580387632075" duration="3802000" />
+      <workItem from="1581148642423" duration="1293000" />
+      <workItem from="1581152180069" duration="6497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581156380629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1581156380629" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1581155913671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1581155913671" />
+    <state width="1515" height="277" key="GridCell.Tab.0.bottom" timestamp="1580394277167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1580394277167" />
+    <state width="1515" height="277" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580390822110" />
+    <state width="1515" height="277" key="GridCell.Tab.0.center" timestamp="1580394277167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1580394277167" />
+    <state width="1515" height="277" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580390822110" />
+    <state width="1515" height="277" key="GridCell.Tab.0.left" timestamp="1580394277167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1580394277167" />
+    <state width="1515" height="277" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580390822110" />
+    <state width="1515" height="277" key="GridCell.Tab.0.right" timestamp="1580394277167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1580394277167" />
+    <state width="1515" height="277" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580390822110" />
+  </component>
+</project>
