@@ -25,5 +25,5 @@ function jeu(
 jouer = true;
 while(jouer) {
     jeu();
-    jouer  = confirm('Voulez vous rejouer');
+    jouer  = confirm('Est ce que vous voulez vous rejouer');
 }
