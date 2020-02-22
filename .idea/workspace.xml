@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b44f81-745b-4c88-a24a-146ecbb9c5da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/support de cours/Cours Web 1 HTML5.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/support de cours/Cours Web 2 CSS3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/support de cours/Cours Web 3 JS.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/support de cours/partie4_PHP5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/randomColorBodySons.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/innerHtml.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/innerHtml.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +54,7 @@
       <recent name="E:\Node\LFSI2Centrale\assets\js" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.tableaux.js">
+  <component name="RunManager" selected="Node.js.test.js">
     <configuration name="examples.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assets/js/examples.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -68,8 +64,12 @@
     <configuration name="tableaux.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/assets/js/tableaux.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.tableaux.js" />
         <item itemvalue="Node.js.portée.js" />
         <item itemvalue="Node.js.examples.js" />
@@ -102,7 +102,11 @@
       <workItem from="1579787447805" duration="616000" />
       <workItem from="1580387632075" duration="3802000" />
       <workItem from="1581148642423" duration="1293000" />
-      <workItem from="1581152180069" duration="8196000" />
+      <workItem from="1581152180069" duration="8266000" />
+      <workItem from="1581168595007" duration="1055000" />
+      <workItem from="1581322181958" duration="526000" />
+      <workItem from="1581408303432" duration="75000" />
+      <workItem from="1582357931458" duration="1580000" />
     </task>
     <task id="LOCAL-00001" summary="Js client side">
       <created>1581161017449</created>
@@ -111,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581161017449</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="support de cours">
+      <created>1581163155590</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581163155590</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,44 +130,45 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Js client side" />
-    <option name="LAST_COMMIT_MESSAGE" value="Js client side" />
+    <MESSAGE value="support de cours" />
+    <option name="LAST_COMMIT_MESSAGE" value="support de cours" />
   </component>
   <component name="WindowStateProjectService">
     <state x="543" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581156380629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="543" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1581156380629" />
-    <state x="377" y="0" key="CommitChangelistDialog2" timestamp="1581161016726">
+    <state x="377" y="0" key="CommitChangelistDialog2" timestamp="1581163154917">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="377" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581161016726" />
+    <state x="377" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581163154917" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1581155913671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1581155913671" />
-    <state width="1515" height="277" key="GridCell.Tab.0.bottom" timestamp="1580394277167">
+    <state width="1515" height="277" key="GridCell.Tab.0.bottom" timestamp="1581408378175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="277" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1580394277167" />
-    <state width="1515" height="277" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580390822110" />
-    <state width="1515" height="277" key="GridCell.Tab.0.center" timestamp="1580394277167">
+    <state width="1515" height="277" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581408378175" />
+    <state width="1515" height="277" key="GridCell.Tab.0.center" timestamp="1581408378175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="277" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1580394277167" />
-    <state width="1515" height="277" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580390822110" />
-    <state width="1515" height="277" key="GridCell.Tab.0.left" timestamp="1580394277167">
+    <state width="1515" height="277" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581408378175" />
+    <state width="1515" height="277" key="GridCell.Tab.0.left" timestamp="1581408378174">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="277" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1580394277167" />
-    <state width="1515" height="277" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580390822110" />
-    <state width="1515" height="277" key="GridCell.Tab.0.right" timestamp="1580394277167">
+    <state width="1515" height="277" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581408378174" />
+    <state width="1515" height="277" key="GridCell.Tab.0.right" timestamp="1581408378175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="277" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1580394277167" />
-    <state width="1515" height="277" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580390822110" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1581161020448">
+    <state width="1515" height="277" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581408378175" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1581163157480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581161020448" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581163157480" />
   </component>
 </project>
