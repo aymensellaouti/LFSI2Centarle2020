@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b44f81-745b-4c88-a24a-146ecbb9c5da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/insertImagesInList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/word.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word.html" beforeDir="false" afterPath="$PROJECT_DIR$/word.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,26 +15,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="E:\Node\LFSI2Centrale\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectId" id="1WnVs0YE0M7Jhq4uhbYoEOuuMqD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -78,18 +69,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -108,7 +87,9 @@
       <workItem from="1581168595007" duration="1055000" />
       <workItem from="1581322181958" duration="526000" />
       <workItem from="1581408303432" duration="75000" />
-      <workItem from="1582357931458" duration="6831000" />
+      <workItem from="1582357931458" duration="8416000" />
+      <workItem from="1582704796891" duration="140000" />
+      <workItem from="1586427612922" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="Js client side">
       <created>1581161017449</created>
@@ -138,28 +119,40 @@
       <option name="project" value="LOCAL" />
       <updated>1582361228109</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="eventListner">
+      <created>1582369142200</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582369142200</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Js client side" />
     <MESSAGE value="support de cours" />
     <MESSAGE value="Exemples parcours DOM" />
     <MESSAGE value="Exemples parcours DOM 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exemples parcours DOM 2" />
+    <MESSAGE value="eventListner" />
+    <option name="LAST_COMMIT_MESSAGE" value="eventListner" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2094" y="82" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1582369184606">
+      <screen x="1920" y="0" width="1024" height="728" />
+    </state>
+    <state x="2094" y="82" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.1536.824/1920.0.1024.728@1920.0.1024.728" timestamp="1582369184606" />
     <state x="543" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581156380629">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="543" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1581156380629" />
-    <state x="377" y="0" key="CommitChangelistDialog2" timestamp="1582361227495">
+    <state x="377" y="0" key="CommitChangelistDialog2" timestamp="1582369141386">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="377" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582361227495" />
+    <state x="377" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582369141386" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1581155913671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -184,9 +177,9 @@
     </state>
     <state width="1515" height="277" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1024.728@0.0.1536.824" timestamp="1580394277167" />
     <state width="1515" height="277" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581408378175" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1582361229543">
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1582369144243">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582361229543" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582369144243" />
   </component>
 </project>
